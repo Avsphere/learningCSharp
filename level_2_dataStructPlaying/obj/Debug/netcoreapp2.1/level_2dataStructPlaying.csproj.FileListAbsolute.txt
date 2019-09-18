@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\bin\Debug\netcoreapp2.1\level_2dataStructPlaying.deps.json
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\bin\Debug\netcoreapp2.1\level_2dataStructPlaying.runtimeconfig.json
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\bin\Debug\netcoreapp2.1\level_2dataStructPlaying.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\bin\Debug\netcoreapp2.1\level_2dataStructPlaying.dll
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\bin\Debug\netcoreapp2.1\level_2dataStructPlaying.pdb
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\obj\Debug\netcoreapp2.1\level_2dataStructPlaying.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\obj\Debug\netcoreapp2.1\level_2dataStructPlaying.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\obj\Debug\netcoreapp2.1\level_2dataStructPlaying.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\obj\Debug\netcoreapp2.1\level_2dataStructPlaying.AssemblyInfo.cs
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\obj\Debug\netcoreapp2.1\level_2dataStructPlaying.dll
+C:\Users\aaperrin\dev\learningCSharp\level_2_dataStructPlaying\obj\Debug\netcoreapp2.1\level_2dataStructPlaying.pdb

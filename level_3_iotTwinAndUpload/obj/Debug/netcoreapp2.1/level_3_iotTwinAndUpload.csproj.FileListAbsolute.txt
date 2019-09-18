@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\obj\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\obj\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\obj\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\obj\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.AssemblyInfo.cs
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\bin\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.deps.json
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\bin\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.runtimeconfig.json
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\bin\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\bin\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.dll
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\bin\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.pdb
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\obj\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.dll
+C:\Users\aaperrin\dev\learningCSharp\level_3_iotTwinAndUpload\obj\Debug\netcoreapp2.1\level_3_iotTwinAndUpload.pdb
