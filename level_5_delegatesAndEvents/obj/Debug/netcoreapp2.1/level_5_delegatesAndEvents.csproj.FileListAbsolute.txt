@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\bin\Debug\netcoreapp2.1\level_5_delegatesAndEvents.deps.json
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\bin\Debug\netcoreapp2.1\level_5_delegatesAndEvents.runtimeconfig.json
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\bin\Debug\netcoreapp2.1\level_5_delegatesAndEvents.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\bin\Debug\netcoreapp2.1\level_5_delegatesAndEvents.dll
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\bin\Debug\netcoreapp2.1\level_5_delegatesAndEvents.pdb
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\obj\Debug\netcoreapp2.1\level_5_delegatesAndEvents.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\obj\Debug\netcoreapp2.1\level_5_delegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\obj\Debug\netcoreapp2.1\level_5_delegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\obj\Debug\netcoreapp2.1\level_5_delegatesAndEvents.AssemblyInfo.cs
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\obj\Debug\netcoreapp2.1\level_5_delegatesAndEvents.dll
+C:\Users\aaperrin\dev\learningCSharp\level_5_delegatesAndEvents\obj\Debug\netcoreapp2.1\level_5_delegatesAndEvents.pdb

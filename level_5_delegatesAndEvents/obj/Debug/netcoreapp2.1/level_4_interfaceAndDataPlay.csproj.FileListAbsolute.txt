@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\obj\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\obj\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\obj\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\obj\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.AssemblyInfo.cs
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\bin\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.deps.json
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\bin\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.runtimeconfig.json
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\bin\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\bin\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.dll
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\bin\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.pdb
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\obj\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.dll
+C:\Users\aaperrin\dev\learningCSharp\level_4_interfaceAndDataPlay\obj\Debug\netcoreapp2.1\level_4_interfaceAndDataPlay.pdb
