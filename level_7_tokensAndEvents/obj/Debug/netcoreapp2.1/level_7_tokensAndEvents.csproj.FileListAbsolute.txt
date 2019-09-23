@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\obj\Debug\netcoreapp2.1\level_7_tokensAndEvents.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\obj\Debug\netcoreapp2.1\level_7_tokensAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\obj\Debug\netcoreapp2.1\level_7_tokensAndEvents.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\obj\Debug\netcoreapp2.1\level_7_tokensAndEvents.AssemblyInfo.cs
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\bin\Debug\netcoreapp2.1\level_7_tokensAndEvents.deps.json
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\bin\Debug\netcoreapp2.1\level_7_tokensAndEvents.runtimeconfig.json
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\bin\Debug\netcoreapp2.1\level_7_tokensAndEvents.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\bin\Debug\netcoreapp2.1\level_7_tokensAndEvents.dll
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\bin\Debug\netcoreapp2.1\level_7_tokensAndEvents.pdb
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\obj\Debug\netcoreapp2.1\level_7_tokensAndEvents.dll
+C:\Users\aaperrin\dev\learningCSharp\level_7_tokensAndEvents\obj\Debug\netcoreapp2.1\level_7_tokensAndEvents.pdb

@@ -6,7 +6,7 @@ namespace level_3_iotTwinAndUpload
     class Program
     {
 
-        static async Task Main(string[] args)
+        static async void Main(string[] args)
         {
             // IotDevice.receiveMessageOnDevice();
 

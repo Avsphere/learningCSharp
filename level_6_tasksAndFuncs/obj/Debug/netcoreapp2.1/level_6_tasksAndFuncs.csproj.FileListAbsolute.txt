@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\obj\Debug\netcoreapp2.1\level_6_tasksAndFuncs.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\obj\Debug\netcoreapp2.1\level_6_tasksAndFuncs.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\obj\Debug\netcoreapp2.1\level_6_tasksAndFuncs.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\obj\Debug\netcoreapp2.1\level_6_tasksAndFuncs.AssemblyInfo.cs
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\bin\Debug\netcoreapp2.1\level_6_tasksAndFuncs.deps.json
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\bin\Debug\netcoreapp2.1\level_6_tasksAndFuncs.runtimeconfig.json
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\bin\Debug\netcoreapp2.1\level_6_tasksAndFuncs.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\bin\Debug\netcoreapp2.1\level_6_tasksAndFuncs.dll
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\bin\Debug\netcoreapp2.1\level_6_tasksAndFuncs.pdb
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\obj\Debug\netcoreapp2.1\level_6_tasksAndFuncs.dll
+C:\Users\aaperrin\dev\learningCSharp\level_6_tasksAndFuncs\obj\Debug\netcoreapp2.1\level_6_tasksAndFuncs.pdb
