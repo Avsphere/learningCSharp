@@ -6,40 +6,48 @@ using System.Linq;
 namespace level_4_interfaceAndDataPlay {
 
     interface IExpensive<T> {
-        int value {get;}
-        int averagePrice { get; set; }
+
+        int Value { get;}
+        double AveragePrice();
         bool isExpensive();
         bool isCheap();
     }
 
-    public class Box : IExpensive<Box>{
+    interface IColorful<T> {
+        string Color { get; set; }
+    }
+
+    public class Box : IExpensive<Box> , IColorful<Box> {
         public List<int> items { get; private set; }
+        public int Value { get; private set; }
+        public int othervalue { get; }
+        public string Color { get; set; }
         
-        public int value { get; }
-        public int averagePrice { get; set; } = 5;
+        public int marketValue = 100;
+
         public Box() {
             items = Enumerable.Range(0, 100).ToList();
         }
 
+        public int Add(int n) {
+            items.Add(n);
+            Value = items.Aggregate( (acc, el) => acc + el );
+            return Value;
+        }
+
+        public double AveragePrice() {
+            return items.Average();
+        }
+
         public bool isExpensive() {
-            return items.Average() > averagePrice;
+            return items.Average() > marketValue;
         }
 
         public bool isCheap() {
-            return items.Average() < averagePrice;
+            return items.Average() < marketValue;
         }
 
 
     }
 
-    public static class Extensions {
-        public static Func<T, TReturn2> Compose<T, TReturn1, TReturn2>(this Func<TReturn1, TReturn2> func1, Func<T, TReturn1> func2 ){
-            return x => func1(func2(x));
-        }
-    }
-    public class Functionalish {
-        public static Func<int, int> square = x => x * x;
-        public static Func<int, int> add3 = x => x + 3;
-        public static Func<int, int> addThenSquare = x => add3.Compose(square);
-    }
 }

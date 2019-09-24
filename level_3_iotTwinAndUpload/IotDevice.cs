@@ -14,6 +14,7 @@ namespace level_3_iotTwinAndUpload {
         private static TransportType mqttTransport = TransportType.Mqtt;
 
         private static DeviceClient deviceClient = DeviceClient.CreateFromConnectionString(connectionString, mqttTransport);
+        
 
         public static Message generateMessage(string value) {
             string message = JsonConvert.SerializeObject( new {
@@ -28,12 +29,14 @@ namespace level_3_iotTwinAndUpload {
         }
 
         public static async Task receiveMessageOnDevice(int listenFor=100) {
-            Message receivedMessage = await deviceClient
-            .ReceiveAsync(TimeSpan.FromSeconds(listenFor))
-            .ConfigureAwait(false); //my understanding is that this will listen in a non blocking way for x seconds?
-            
-            Console.WriteLine("Device has received message from cloud" + Encoding.ASCII.GetString(receivedMessage.GetBytes()));
-            await deviceClient.CompleteAsync(receivedMessage).ConfigureAwait(false);
+            while(true) {
+                Message receivedMessage = await deviceClient
+                .ReceiveAsync(TimeSpan.FromSeconds(listenFor))
+                .ConfigureAwait(false); //my understanding is that this will listen in a non blocking way for x seconds?
+                
+                Console.WriteLine("Device has received message from cloud" + Encoding.ASCII.GetString(receivedMessage.GetBytes()));
+                await deviceClient.CompleteAsync(receivedMessage).ConfigureAwait(false);
+            }
         }
 
         public static async Task uploadDummyFileToCloud() {
