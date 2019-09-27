@@ -21,7 +21,7 @@ namespace level_5_delegatesAndEvents
         }
         static void Main(string[] args)
         {
-            // BasicDelegate.Demo();
+            BasicDelegate.Demo();
             Foody f = new Foody(10);
             f.ThresholdReached_delegate += HandleThresholdReached;
             f.ConditionFailed_delegate += HandleConditionFailed;

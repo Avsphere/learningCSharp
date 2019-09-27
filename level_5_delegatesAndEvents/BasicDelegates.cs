@@ -1,5 +1,9 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
+
+delegate string[] FilterStringList( List<string> stringList);
 
 namespace level_5_delegatesAndEvents {
     static public class BasicDelegate {
@@ -22,6 +26,23 @@ namespace level_5_delegatesAndEvents {
             return fn1(x) + fn2(x);
         }
 
+
+        public static string[] OddFilter( List<string> stringList )
+        {
+            return stringList.Where( s => s.Length % 2 != 0 ).ToArray();
+        }
+
+        public static string[] EvenFilter( List<string> stringList ) 
+        {
+            return stringList.Where( s => s.Length % 2 == 0 ).ToArray();
+        }
+
+        public static Func<List<string>, string[]> OddFilter_func = strList => strList
+            .Where( s => s.Length % 2 != 0 ).ToArray();
+
+        public static Func<List<string>, string[]> EvenFilter_func = strList => strList
+            .Where( s => s.Length % 2 == 0 ).ToArray();
+
         public static void Demo() {
             Add add4 = AddFour;
             Add add3 = AddThree;
@@ -34,6 +55,33 @@ namespace level_5_delegatesAndEvents {
 
             //subtract has the same signature so I can use it as well
             Console.WriteLine("Should be 0 : " + AddAdd(add4, sub4, 0) );
+
+
+
+            List<string> myStringList = new List<string>() { "test", "strings", "are", "interesting?" };
+
+            FilterStringList oddFilterFn = new FilterStringList(OddFilter);
+            FilterStringList evenFilterFn = new FilterStringList(EvenFilter);
+
+
+            FilterStringList oddFilterFn_func = new FilterStringList(OddFilter_func);
+
+
+            FilterStringList[] filterArray = { oddFilterFn, evenFilterFn, oddFilterFn_func };
+
+
+            // Predicate<string> isEvenLength = s => s.Length % 2 == 0;
+
+            Func<string, bool> isEvenLength = s => s.Length % 2 == 0;
+            string[] areEven = myStringList.Where(isEvenLength).ToArray();
+
+            Console.WriteLine(" areEven : " + string.Join(",", areEven) );
+
+
+
+
+
+
 
         }
     }

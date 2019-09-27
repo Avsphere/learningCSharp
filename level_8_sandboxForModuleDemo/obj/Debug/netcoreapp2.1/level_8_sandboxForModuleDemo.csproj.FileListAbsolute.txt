@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\bin\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.deps.json
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\bin\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.runtimeconfig.json
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\bin\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\bin\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.dll
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\bin\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.pdb
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\obj\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\obj\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\obj\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\obj\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.AssemblyInfo.cs
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\obj\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.dll
+C:\Users\aaperrin\dev\learningCSharp\level_8_sandboxForModuleDemo\obj\Debug\netcoreapp2.1\level_8_sandboxForModuleDemo.pdb
