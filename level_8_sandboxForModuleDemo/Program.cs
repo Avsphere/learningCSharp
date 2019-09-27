@@ -89,11 +89,25 @@ namespace level_8_sandboxForModuleDemo
 
             foreach( JObject o in jsonObjs ) {
                 // Console.WriteLine(o.ToString());s
-                JToken data = o.GetValue("data");
-                JObject ev = JObject.Parse(data[0].ToString());
+                // JToken data = o.GetValue("data");
 
-                bool test = Filter.IsImportantEvent(ev);
-                Console.WriteLine(ev + " " + test);
+                JArray eventArray = (JArray)o["data"];
+                
+                //Are these auto optimized? or do i needs a transducer
+                List<JObject> importantEvents = eventArray
+                    .Where( ev => ev.ToString().Length > 0 ) //make sure the jtoken was not a newline
+                    .Select( ev => JObject.Parse(ev.ToString()) ) //JToken -> Jobject 
+                    .Where(Filter.IsImportantEvent) //Filter out "non-important" events
+                    .ToList();
+                
+
+                if ( importantEvents.Count > 0 ) {
+                    Console.WriteLine( JsonConvert.SerializeObject(importantEvents) );
+                }
+
+                // bool test = Filter.IsImportantEvent(ev);
+                // Console.WriteLine(ev + " " + test);
+                Console.WriteLine("------------------------");
 
                 
             }

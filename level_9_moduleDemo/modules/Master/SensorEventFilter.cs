@@ -5,24 +5,11 @@ using System.Linq;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-
-
-            //testing testing
-            // Func<List<string>, string[]> oddF = strList => strList.Where( s => s.Length % 2 != 0).ToArray();
-            // Func<List<string>, string[]> evenF = strList => strList.Where( s => s.Length % 2 == 0).ToArray();
-
-            // Func<List<string>,string[]>[] filterFuncs = { oddF, evenF };
-
-            // // FilterStringList[] test = { oddF, evenF }; ????
-
-            // string[] evenFilterResults = filters[0](collectionOfData);
-            // string[] evenFilterResults2 = filterFuncs[0](collectionOfData);
-            // string[] oddFilterResults = filters[1](collectionOfData);
-            // string[] oddFilterResults2 = filterFuncs[1](collectionOfData);
-
-namespace level_8_sandboxForModuleDemo
+namespace Master
 {
-    static class Filter {
+
+    //Enjoyable style
+    static class SensorEventFilter {
 
         static double temperatureThreshold = 1500;
 
@@ -55,12 +42,11 @@ namespace level_8_sandboxForModuleDemo
             if ( isDoorEvent(eventData) )
                 return isImportantDoorEvent(eventData);
             if ( isAirConditionEvent(eventData) )
-                return true;
+                return true; //just take all air condition events
             
             throw new InvalidOperationException("Event not recognized");
         }
     
     }
-
 
 }
