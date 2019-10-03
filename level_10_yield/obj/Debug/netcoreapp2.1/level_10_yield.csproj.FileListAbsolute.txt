@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\obj\Debug\netcoreapp2.1\level_10_yield.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\obj\Debug\netcoreapp2.1\level_10_yield.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\obj\Debug\netcoreapp2.1\level_10_yield.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\obj\Debug\netcoreapp2.1\level_10_yield.AssemblyInfo.cs
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\bin\Debug\netcoreapp2.1\level_10_yield.deps.json
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\bin\Debug\netcoreapp2.1\level_10_yield.runtimeconfig.json
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\bin\Debug\netcoreapp2.1\level_10_yield.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\bin\Debug\netcoreapp2.1\level_10_yield.dll
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\bin\Debug\netcoreapp2.1\level_10_yield.pdb
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\obj\Debug\netcoreapp2.1\level_10_yield.dll
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_10_yield\obj\Debug\netcoreapp2.1\level_10_yield.pdb

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\level_09_moduleDemo",
+    "\\level_09_moduleDemo\\modules",
+    "\\level_09_moduleDemo\\modules\\EngineDataCollector",
+    "\\level_09_moduleDemo\\modules\\Master",
+    "\\level_10_yield"
+  ],
+  "SelectedNode": "\\level_09_moduleDemo\\modules\\Master\\SensorEventFilter.cs",
+  "PreviewInSolutionExplorer": false
+}
