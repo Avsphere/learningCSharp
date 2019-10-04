@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\obj\Debug\netcoreapp2.1\level_11_abstractFactory.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\obj\Debug\netcoreapp2.1\level_11_abstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\obj\Debug\netcoreapp2.1\level_11_abstractFactory.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\obj\Debug\netcoreapp2.1\level_11_abstractFactory.AssemblyInfo.cs
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\bin\Debug\netcoreapp2.1\level_11_abstractFactory.deps.json
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\bin\Debug\netcoreapp2.1\level_11_abstractFactory.runtimeconfig.json
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\bin\Debug\netcoreapp2.1\level_11_abstractFactory.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\bin\Debug\netcoreapp2.1\level_11_abstractFactory.dll
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\bin\Debug\netcoreapp2.1\level_11_abstractFactory.pdb
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\obj\Debug\netcoreapp2.1\level_11_abstractFactory.dll
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_11_abstractFactory\obj\Debug\netcoreapp2.1\level_11_abstractFactory.pdb
