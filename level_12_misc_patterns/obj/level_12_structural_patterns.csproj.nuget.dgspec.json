@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_0\\level_0.csproj": {}
+    "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_12_structural_patterns\\level_12_structural_patterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_0\\level_0.csproj": {
+    "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_12_structural_patterns\\level_12_structural_patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_0\\level_0.csproj",
-        "projectName": "level_0",
-        "projectPath": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_0\\level_0.csproj",
+        "projectUniqueName": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_12_structural_patterns\\level_12_structural_patterns.csproj",
+        "projectName": "level_12_structural_patterns",
+        "projectPath": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_12_structural_patterns\\level_12_structural_patterns.csproj",
         "packagesPath": "C:\\Users\\aaperrin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_0\\obj\\",
+        "outputPath": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_12_structural_patterns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -45,10 +45,6 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3-beta1, )"
             }
           },
           "imports": [

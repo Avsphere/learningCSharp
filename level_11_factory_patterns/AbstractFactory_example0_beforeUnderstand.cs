@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace level_11_abstractFactory
+namespace level_11_factory_patterns
 {
-    class Program
-    {
         public interface IAirConditioner
         {
             void Operate();
@@ -86,19 +84,15 @@ namespace level_11_abstractFactory
             public IAirConditioner ExecuteCreation(Actions action, double temperature) => _factories[action].Create(temperature);
         }
 
-
-        static void Main(string[] args)
+        public static class Example0
         {
-            /* FIRST EXAMPLE */
-
-            // AirConditioner
-            // .InitializeFactories()
-            // .ExecuteCreation(Actions.Cooling, 22.5)
-            // .Operate();
-
-            /* SECOND EXAMPLE */
-                        
-
+            public static void Demo()
+            {
+                AirConditioner
+                    .InitializeFactories()
+                    .ExecuteCreation(Actions.Cooling, 22.5)
+                    .Operate();
+            }
         }
-    }
+
 }

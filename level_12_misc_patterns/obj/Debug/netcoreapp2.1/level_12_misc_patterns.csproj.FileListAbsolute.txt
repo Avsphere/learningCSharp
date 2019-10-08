@@ -1,0 +1,11 @@
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\obj\Debug\netcoreapp2.1\level_12_misc_patterns.csprojAssemblyReference.cache
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\obj\Debug\netcoreapp2.1\level_12_misc_patterns.csproj.CoreCompileInputs.cache
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\obj\Debug\netcoreapp2.1\level_12_misc_patterns.AssemblyInfoInputs.cache
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\obj\Debug\netcoreapp2.1\level_12_misc_patterns.AssemblyInfo.cs
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\bin\Debug\netcoreapp2.1\level_12_misc_patterns.deps.json
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\bin\Debug\netcoreapp2.1\level_12_misc_patterns.runtimeconfig.json
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\bin\Debug\netcoreapp2.1\level_12_misc_patterns.runtimeconfig.dev.json
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\bin\Debug\netcoreapp2.1\level_12_misc_patterns.dll
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\bin\Debug\netcoreapp2.1\level_12_misc_patterns.pdb
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\obj\Debug\netcoreapp2.1\level_12_misc_patterns.dll
+C:\Users\aaperrin\dev\Onboarding\learningCSharp\level_12_misc_patterns\obj\Debug\netcoreapp2.1\level_12_misc_patterns.pdb

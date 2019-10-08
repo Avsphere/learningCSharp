@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_11_abstractFactory\\level_11_abstractFactory.csproj",
-      "projectName": "level_11_abstractFactory",
-      "projectPath": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_11_abstractFactory\\level_11_abstractFactory.csproj",
+      "projectUniqueName": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_11_factory_patterns\\level_11_factory_patterns.csproj",
+      "projectName": "level_11_factory_patterns",
+      "projectPath": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_11_factory_patterns\\level_11_factory_patterns.csproj",
       "packagesPath": "C:\\Users\\aaperrin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_11_abstractFactory\\obj\\",
+      "outputPath": "C:\\Users\\aaperrin\\dev\\Onboarding\\learningCSharp\\level_11_factory_patterns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
